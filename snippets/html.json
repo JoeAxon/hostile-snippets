@@ -10,8 +10,7 @@
       "\t\t<title>$2</title>",
       "\t\t<link href=\"${3:css/style}.css\" rel=\"stylesheet\">",
       "\t</head>",
-      "\t<body>",
-      "\t$0",
+      "\t<body>$0",
       "\t</body>",
       "</html>"
     ],
