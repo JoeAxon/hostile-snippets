@@ -1,4 +1,12 @@
 {
+  "const equals": {
+    "prefix": "c=",
+    "body": "const ${1:name} = $2;"
+  },
+  "let equals": {
+    "prefix": "l=",
+    "body": "let ${1:name} = $2;"
+  },
   "named function": {
     "prefix": "fn",
     "body": "function ${1:name}(${2:arguments}) {\n\t${0}\n}",
