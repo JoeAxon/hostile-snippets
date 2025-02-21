@@ -15,7 +15,10 @@
       "</html>"
     ],
     "description": "HTML - Defines a template for a html5 document",
-    "scope": "text.html"
+    "scope": "text.html",
+    "luasnip": {
+      "priority": 2000
+    }
   },
   "scriptx": {
     "prefix": "scriptx",
