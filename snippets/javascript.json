@@ -1,0 +1,6 @@
+{
+  "getContext('2d')": {
+    "prefix": "g2d",
+    "body": "${1:canvas}.getContext('2d')"
+  }
+}
