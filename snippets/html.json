@@ -1,0 +1,8 @@
+{
+  "scriptx": {
+    "prefix": "scriptx",
+    "body": "<script type=\"text/javascript\" src=\"$1\"></script>$2",
+    "description": "HTML - Defines external script tag",
+    "scope": "text.html"
+  }
+}
