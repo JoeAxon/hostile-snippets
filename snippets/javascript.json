@@ -1,4 +1,11 @@
 {
+  "named function": {
+    "prefix": "fn",
+    "body": "function ${1:name}(${2:arguments}) {\n\t${0}\n}",
+    "luasnip": {
+      "priority": 2000
+    }
+  },
   "getContext('2d')": {
     "prefix": "g2d",
     "body": "${1:canvas}.getContext('2d')"
