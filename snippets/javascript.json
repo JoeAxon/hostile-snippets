@@ -14,7 +14,7 @@
       "priority": 2000
     }
   },
-  "constructor": {
+  "Constructor": {
     "prefix": "ctor",
     "body": [
       "constructor($1) {$0}"
